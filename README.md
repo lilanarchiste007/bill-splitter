@@ -1,2 +1,1 @@
-# bill-splitter
-bill splitter
+# freecodecamp
